@@ -247,7 +247,7 @@ create vpc
 
                    vi client/src/pages/config.js
  
-                  ( const API_BASE_URL = "http://api.narni.co.in";)
+                  ( const API_BASE_URL = "http://169.254.169.254";)
    //   in above line change to your backend loadbalncer url
 
                    const API_BASE_URL = "http://backend-loadbalancer-url";
@@ -255,8 +255,6 @@ create vpc
    // checkout client
 
                    cd client
-
-
 
    //  then go to client directory  &  run below commands
 
