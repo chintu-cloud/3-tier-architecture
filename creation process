@@ -152,8 +152,8 @@ create vpc
                    yum install git -y
                    git clone https://github.com/CloudTechDevOps/2nd10WeeksofCloudOps-main.git
                    ls
- 	         cd 2nd10WeeksofCloudOps-main/
- 	         ls
+ 	           cd 2nd10WeeksofCloudOps-main/
+ 	           ls
        //  then remove the unnecessary file
        //  go to backend
  	         cd backend
