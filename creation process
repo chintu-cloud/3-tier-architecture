@@ -67,6 +67,9 @@ create vpc
                            backend-pvt-subnet-1a
                            backend-pvt-subnet-1b
 
+                           RDS-subnet-1a
+                           RDS-subnet-1b
+
 7.create security group
  
         Public SG -       name - public-sg
